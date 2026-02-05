@@ -14,7 +14,7 @@ The goal of this project wasn't exploitation, but building Foundatinal intuition
  Key concepts explored:
  - Linux file permissions and SUID behavior
  - Filesystem enumeration using core Linux commands
- - System call (open,read ,write) and kernel interation
- - Why misconfiguration at this level matter for privilege escalation.
+ - System call (open,read,write) and kernel interation
+ - Why misconfiguration at this level matter for privilege escalation
 
 This project is part of  my structured cybersecurity learning, focused on learning systems deeply before moving into exploitation and defense.  
