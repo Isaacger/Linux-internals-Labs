@@ -6,6 +6,7 @@ I set up an Ubuntu Virtual machine and  performed basic system reconnaissance,fo
 - Discovering files with special permissions (SUID binaries)
 - Understanding how user-level commands interact with the Linux kernel
 - Observing real system call using tracing tools.
+  
 The goalof this project wasn't exploitation, but building Foundatinal intuition about how attackers enumerate systems and how programs actually execute under the hood.
 
  Key concepts explored:
