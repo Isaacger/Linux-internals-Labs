@@ -1,5 +1,7 @@
 #Linux internal Lab
-Mini project 01: Linux privilege Discovery & System call odservation 
+
+Mini project 01: Linux privilege Discovery & System call odservation
+
 Description:
 This mini project documents my first hand on exploration of Linux from a security perspective.
 I set up an Ubuntu Virtual machine and  performed basic system reconnaissance,focusing on:
